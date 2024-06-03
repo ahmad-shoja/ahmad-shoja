@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmad Shoja.<br>👀 I graduated from the University of Amirkabir-arak in 2021 with a bachelor's degree in Computer Software development.<br>🌱 My interests are in software architecture and design patterns, and I love to create well-structured and clean-coded products that can be easily maintained.<br>🧑‍💻I previously worked at team pooya-tech, where we take startup projects from customers in different stack technologies like react, Vue, Python, Django, android, etc.<br>Now im working in a shopify app development theam as CTO.<br>💞️ I love to find optimal ways to do things, with minimum effort and maximum quality. I can grease the wheels of projects.<br>
+👋 Hi, I’m Ahmad Shoja.<br>🌱 My interests are in software architecture and design patterns, and I love to create well-structured and clean-coded products that can be easily maintained.<br>🧑‍💻I previously worked at team pooya-tech, where we take startup projects from customers in different stack technologies like react, Vue, Python, Django, android, etc.<br>Now im working in a shopify app development theam as CTO.<br>💞️ I love to find optimal ways to do things, with minimum effort and maximum quality. I can grease the wheels of projects.<br>
 
 
 ## 🌐 Socials:
